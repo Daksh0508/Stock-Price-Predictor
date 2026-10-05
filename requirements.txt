@@ -9,7 +9,7 @@ requests==2.31.0
 
 # ML / DL
 scikit-learn==1.4.0
-tensorflow==2.15.0
+tensorflow-cpu
 keras==2.15.0
 
 # Technical indicators
